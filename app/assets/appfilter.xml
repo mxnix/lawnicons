@@ -37,6 +37,7 @@
   <item drawableIgnore="true" component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="themed_icon_calendar_31" name="Calendar" />
   <item drawableIgnore="true" component="ComponentInfo{com.transsion.calendar/com.android.calendar.AllInOneActivity}" drawable="themed_icon_calendar_31" name="Calendar" />
   <!-- Lawnicons -->
+  <item component="ComponentInfo{ru.tattelecom.intercom/ru.tattelecom.intercom.android.MainActivity}" drawable="myhouse" name="Мой Дом" />
   <item component="ComponentInfo{fonts.mono.oneui_2_0/fonts.mono.oneui_2_0.MainActivity}" drawable="mono" name="#mono" />
   <item component="ComponentInfo{fonts.mono.oneui_2_0/fonts.mono.oneui_2_0.MonoInstallerActivity}" drawable="mono" name="#mono" />
   <item component="ComponentInfo{com.q42.ohhi/com.q42.ohhi.MainActivity}" drawable="ohhi" name="0h h1" />
